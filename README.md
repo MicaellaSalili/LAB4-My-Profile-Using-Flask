@@ -1,9 +1,8 @@
 # LAB4-My-Profile-Using-Flask
 
-# Micaella Salili's Website Portfolio
+Micaella Salili's Website Portfolio
 
-
-## Running the Application
+Running the Application
 
 1. install python if you haven't install yet
 1.1 go to your working dir 
