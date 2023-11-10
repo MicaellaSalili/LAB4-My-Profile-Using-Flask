@@ -12,8 +12,7 @@ Running the Application
     python app.py    
 
 
-## Project Structure
-
+Project Structure
 The project is organized as follows:
 
 - **app.py:** The main Python file containing the Flask application.
@@ -21,16 +20,3 @@ The project is organized as follows:
 - **static/:** The static folder holds images and other static assets used by the website.
 
 
-Folder Structure
-.
-├── app.py
-├── templates/
-│   ├── index.html
-│   ├── project1.html
-│   ├── project2.html
-│   ├── ...
-├── static/
-│   ├── image1.jpg
-│   ├── image2.png
-│   ├── ...
-└── README.md
